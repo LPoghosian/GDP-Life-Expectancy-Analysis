@@ -1,7 +1,7 @@
 # GDP and Life Expectancy Analysis
 
 ## Project Description
-This project analyzes the relationship between GDP and life expectancy across six countries using data from the World Health Organization and the World Bank. The findings will be presented through visualizations and a blog post.
+This project analyzes the relationship between GDP and life expectancy across six countries using data from the World Health Organization and the World Bank. 
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -34,7 +34,7 @@ This project analyzes the relationship between GDP and life expectancy across si
 
 ## Analysis and Visualizations
 - The analysis includes scatter plots showing the relationship between GDP and life expectancy for each country.
-- [Sample Visualization](link to image or include an image here).
+
 
 ## Results
 - Countries with higher GDP generally have higher life expectancy, but there are exceptions.
